@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '56d5006266d14ca7a8d92f5f8fb70e10',
+  rootNotionPageId: 'NOTION-c5d90ffcc8ab4099905b3bae6a0d06ae',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,8 +10,8 @@ export default siteConfig({
 
   // basic site info (required)
   name: '年度规划',
-  domain: 'https://www.notion.so/56d5006266d14ca7a8d92f5f8fb70e10',
-  author: '薄荷',
+  domain: 'https://www.notion.so/NOTION-c5d90ffcc8ab4099905b3bae6a0d06ae',
+  author: '测试模板',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
