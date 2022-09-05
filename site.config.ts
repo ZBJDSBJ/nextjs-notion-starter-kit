@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '年度规划',
-  domain: 'https://www.notion.so/NOTION-c5d90ffcc8ab4099905b3bae6a0d06ae',
+  domain: 'https://bohetuizi.notion.site/',
   author: '测试模板',
 
   // open graph metadata (optional)
