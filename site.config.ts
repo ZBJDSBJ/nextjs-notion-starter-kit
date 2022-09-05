@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '年度规划',
+  name: 'alina',
   domain: 'https://bohetuizi.notion.site/',
   author: '测试模板',
 
